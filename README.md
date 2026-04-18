@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm a B.Tech CSE Student
 
-<!--
-**Sarthak-dhamija/Sarthak-dhamija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Engineering Student
+💻 Passionate about coding, problem-solving, and building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎯 Currently focusing on Data Structures & Algorithms (DSA)
+* 🔐 Interested in Cybersecurity & Cloud Computing
+* 🤖 Exploring Machine Learning projects
+* 🌐 Learning and building in Web Development
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+* Java
+* C
+* C++
+* Python
+
+### 🌐 Web Development
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+---
+
+## 📚 Workshops & Learning
+
+* Cybersecurity Workshop
+* Cloud Computing Workshop
+* React Workshop
+
+---
+
+## 📊 Projects
+
+* 🤖 Machine Learning Project
+* 📘 DSA Practice & Problem Solving
+
+---
+
+## 🎯 Goals
+
+* 🚀 Become a skilled Software Developer
+* 🔍 Improve problem-solving and DSA skills
+* 🌍 Contribute to Open Source Projects
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn:
+* GitHub:
+* Email:
+
+---
+
+✨ Always learning, building, and growing!
