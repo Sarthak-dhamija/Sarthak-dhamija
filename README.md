@@ -1,50 +1,30 @@
-# 👋 Hi, I'm a B.Tech CSE Student
+# 👋 Hi, I'm Sarthak Dhamija!
 
-🎓 3rd Year Computer Science Engineering Student
-💻 Passionate about coding, problem-solving, and building real-world projects
-
----
-
-## 🚀 About Me
-
-* 🎯 Currently focusing on Data Structures & Algorithms (DSA)
-* 🔐 Interested in Cybersecurity & Cloud Computing
-* 🤖 Exploring Machine Learning projects
-* 🌐 Learning and building in Web Development
+🎓 **Competitive Programmer & Software Developer**  
+📍 **Student at SKIT Jaipur**
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 💻 Programming Languages
+I'm passionate about competitive programming and software development. Currently, I'm studying at SKIT Jaipur, focusing on mastering algorithms, data structures, and building efficient software solutions.
 
-* Java
-* C
-* C++
-* Python
+### 💻 Tech Stack
 
-### 🌐 Web Development
+- **Languages:** Java, C++, Python
+- **Development:** Web and software applications
 
-* HTML
-* CSS
-* JavaScript
-* React
+### 🏆 Competitive Programming
 
----
+Active participant in coding contests, continuously improving my problem-solving skills.
 
-## 📚 Workshops & Learning
+### 🚀 Projects
 
-* Cybersecurity Workshop
-* Cloud Computing Workshop
-* React Workshop
+Always working on new projects, exploring innovative ideas in tech.
+
+### 📚 Education
+
+- **B.Tech in Information Technology**  
+  SKIT Jaipur
 
 ---
-
-## 📊 Projects
-
-* 🤖 Machine Learning Project
-* 📘 DSA Practice & Problem Solving
-
----
-
-✨ Always learning, building, and growing!
