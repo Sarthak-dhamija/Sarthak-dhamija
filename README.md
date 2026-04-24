@@ -47,20 +47,4 @@
 
 ---
 
-## 🎯 Goals
-
-* 🚀 Become a skilled Software Developer
-* 🔍 Improve problem-solving and DSA skills
-* 🌍 Contribute to Open Source Projects
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn:
-* GitHub:
-* Email:
-
----
-
 ✨ Always learning, building, and growing!
